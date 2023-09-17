@@ -18,6 +18,7 @@ Follow the following steps to run the code on your system.
 
 - Create your account to login.
 - Add / remove products to your cart.
+
 - Increase / Decrease product quantity.
 - Place order and get a bill of products you purchased.
 - Your cart and order data will remain saved inside the database.
@@ -30,3 +31,12 @@ Follow the following steps to run the code on your system.
 - react-toastify.
 - JavaScript.
 - CSS.
+
+# Screenshots
+![Screenshot (515)](https://github.com/Raju-Pande/buybusy-Redux/assets/127018223/66f385e6-0a9d-44db-810a-1d6a2aa6a2e7)
+![Screenshot (516)](https://github.com/Raju-Pande/buybusy-Redux/assets/127018223/7acaa565-c287-44de-95fb-f5106c7df375)
+![Screenshot (517)](https://github.com/Raju-Pande/buybusy-Redux/assets/127018223/c3824e7a-ddd2-4da0-9f75-2ec722d1649b)
+![Screenshot (520)](https://github.com/Raju-Pande/buybusy-Redux/assets/127018223/7024dd48-b847-454b-bb40-03c117ffc93c)
+![Screenshot (518)](https://github.com/Raju-Pande/buybusy-Redux/assets/127018223/9fa57e9e-dfa1-429d-8608-8f14ddc7b2d0)
+![Screenshot (519)](https://github.com/Raju-Pande/buybusy-Redux/assets/127018223/f2d73863-de45-4ceb-8c17-8bbd56689bd7)
+
